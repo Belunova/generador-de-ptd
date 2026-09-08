@@ -1,0 +1,133 @@
+{
+  "nombre_proyecto": "Nombre creativo y estratégico del proceso de transformación",
+  "diagnostico_inicial": {
+    "fortalezas": [],
+    "debilidades": []
+  },
+  "madurez_digital": {
+    "propia": "",
+    "competencia": "",
+    "brechas": []
+  },
+  "analisis_externo": {
+    "oportunidades": [],
+    "amenazas": []
+  },
+  "empresas_innovadoras": [
+    {
+      "empresa": "",
+      "modelo_negocio": "",
+      "estrategia_digital": "",
+      "producto_servicio": ""
+    }
+  ],
+  "areas_actuacion_principales": [],
+  "buyer_persona": {
+    "perfil_personal": "",
+    "perfil_profesional": "",
+    "habitos": "",
+    "objetivos_y_retos": "",
+    "hobbies_intereses": "",
+    "nuestro_producto_servicio": "",
+    "frustraciones": "",
+    "donde_encontrarle": "",
+    "ventajas_frente_competencia": "",
+    "como_ayudarle": ""
+  },
+  "mapa_empatia": {
+    "con_quien_empatizamos": "",
+    "que_necesita_hacer": [],
+    "que_ve": [],
+    "que_dice": [],
+    "que_hace": [],
+    "que_escucha": [],
+    "que_piensa_y_siente": [],
+    "esfuerzos": [],
+    "resultados": [],
+    "otros_pensamientos": []
+  },
+  "experiencia_cliente": {
+    "etapas": [
+      {
+        "etapa": "",
+        "tareas": [],
+        "dudas": [],
+        "puntos_contacto": [],
+        "emociones": [],
+        "influencias": [],
+        "debilidades": []
+      }
+    ]
+  },
+  "modelo_de_negocio": {
+    "socios_clave": "",
+    "actividades_clave": "",
+    "propuesta_de_valor": "",
+    "relacion_con_clientes": "",
+    "segmento_de_clientes": "",
+    "estructura_de_costos": "",
+    "recursos_clave": "",
+    "fuente_de_ingresos": "",
+    "canales": ""
+  },
+  "lienzo_transformacion_digital": {
+    "cliente_como_centro": "",
+    "tecnologias": "",
+    "negocio_digital": "",
+    "cultura_digital_liderazgo": "",
+    "nube_y_datos": "",
+    "ingenieria_de_procesos": "",
+    "marketing_digital": ""
+  },
+  "herramientas_tecnologias": [
+    {
+      "ambito": "",
+      "herramienta": "",
+      "nivel_actual": "",
+      "presupuesto": "",
+      "prioridad": ""
+    }
+  ],
+  "indicadores_kpi": [
+    {
+      "mes_anio": "",
+      "objetivo": "",
+      "kpi": ""
+    }
+  ],
+  "plan_implantacion": {
+    "acciones": [
+      {
+        "ambito": "",
+        "iniciativa": "",
+        "tareas": "",
+        "plazo": "",
+        "responsable": "",
+        "presupuesto": ""
+      }
+    ]
+  },
+  "matriz_impacto_esfuerzo": {
+    "quick_wins": []
+  },
+  "plazos_inversion": [
+    {
+      "horizonte": "",
+      "descripcion": "",
+      "presupuesto": ""
+    }
+  ],
+  "responsables_del_cambio": [
+    {
+      "nombre": "",
+      "descripcion": ""
+    }
+  ],
+  "formacion_necesaria": [
+    {
+      "curso_tema": "",
+      "departamento_personas": "",
+      "duracion_horas": ""
+    }
+  ]
+}
